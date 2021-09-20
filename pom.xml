@@ -11,19 +11,19 @@
     <description>This Plugin allows the admin to set a Regex merge check on projects and repositories. The Regex has to be matched in order to make a commit (PR merge)</description>
 
     <organization>
-        <name>MyHeritage</name>
-        <url>http://www.myheritage.com/</url>
+        <name>Bucher + Suter AG</name>
+        <url>https://bucher-suter.com/</url>
     </organization>
 
     <scm>
-        <connection>scm:git:https://github.com/myheritage/bitbucket-merge-checker.git</connection>
-        <developerConnection>scm:git:https://github.com/myheritage/bitbucket-merge-checker.git</developerConnection>
-        <url>https://github.com/myheritage/bitbucket-merge-checker.git</url>
+        <connection>scm:git:https://github.com/severingafner/bitbucket-merge-checker.git</connection>
+        <developerConnection>scm:git:https://github.com/severingafner/bitbucket-merge-checker.git</developerConnection>
+        <url>https://github.com/severingafner/bitbucket-merge-checker.git</url>
       <tag>HEAD</tag>
   </scm>
 
     <issueManagement>
-        <url>https://github.com/myheritage/bitbucket-merge-checker/issues</url>
+        <url>https://github.com/severingafner/bitbucket-merge-checker/issues</url>
         <system>GitHub</system>
     </issueManagement>
 
