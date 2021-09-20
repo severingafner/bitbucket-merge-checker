@@ -4,7 +4,7 @@
 
     <groupId>com.myheritage.bitbucket</groupId>
     <artifactId>bitbucket-merge-checker</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>atlassian-plugin</packaging>
 
     <name>Bitbucket merge checker</name>
